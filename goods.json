@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ебливый медведь",
+        "imageUrl": "./medvedEblo.png"
+    },
+    {
+        "name": "Пиздак",
+        "imageUrl": "./314zDuck.png"
+    },
+    {
+        "name": "Понос",
+        "imageUrl": "./ponos.png"
+    },
+    {
+        "name": "Поссым посрем",
+        "imageUrl": "./5p.png"
+    },
+    {
+        "name": "Дикий расхуйляй",
+        "imageUrl": "./pizdos.png"
+    }
+]

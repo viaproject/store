@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Футболка",
+        "imageUrl": "./medvedEblo.png"
+    },
+    {
+        "name": "Лонгслив",
+        "imageUrl": "./314zDuck.png"
+    },
+    {
+        "name": "Худи",
+        "imageUrl": "./ponos.png"
+    },
+    {
+        "name": "Футболка оверсайз",
+        "imageUrl": "./5p.png"
+    },
+    {
+        "name": "Женская футболка",
+        "imageUrl": "./pizdos.png"
+    }
+]
